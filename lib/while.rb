@@ -1,7 +1,5 @@
-def using_while
+def using_while (name, time)
   levitation_force = 6
-	
-  #your code here
 end
 
 
