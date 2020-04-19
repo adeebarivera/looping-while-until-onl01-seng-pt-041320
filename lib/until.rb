@@ -1,4 +1,4 @@
-def using_until (start,up_to)
+def using_until (start, up_to)
   levitation_force = start
   until levitation_force == up_to
   puts "Wingardium Leviosa"
@@ -6,7 +6,7 @@ def using_until (start,up_to)
  end
 end
 
-using_until (5,10)
+using_until (5, 10)
 
 
 
